@@ -12,5 +12,251 @@
             }
         ]
     },
-    
+    {
+        "original": "aiwaz",
+        "base": "aiw",
+        "declension": "a",
+        "type": "noun",
+        "gender": "masculine",
+        "translations": [
+            {
+                "language": "English",
+                "text": "eternity"
+            }
+        ]
+    },
+    {
+        "original": "ansaz",
+        "base": "ans",
+        "declension": "a",
+        "type": "noun",
+        "gender": "masculine",
+        "translations": [
+            {
+                "language": "English",
+                "text": "beam"
+            }
+        ]
+    },
+    {
+        "original": "askaz",
+        "base": "ask",
+        "declension": "a",
+        "type": "noun",
+        "gender": "masculine",
+        "translations": [
+            {
+                "language": "English",
+                "text": "ash"
+            }
+        ]
+    },
+    {
+        "original": "bardaz",
+        "base": "bard",
+        "declension": "a",
+        "type": "noun",
+        "gender": "masculine",
+        "translations": [
+            {
+                "language": "English",
+                "text": "beard"
+            }
+        ]
+    },
+    {
+        "original": "bergaz",
+        "base": "berg",
+        "declension": "a",
+        "type": "noun",
+        "gender": "masculine",
+        "translations": [
+            {
+                "language": "English",
+                "text": "hill, mountain"
+            }
+        ]
+    },
+    {
+        "original": "brandaz",
+        "base": "brand",
+        "declension": "a",
+        "type": "noun",
+        "gender": "masculine",
+        "translations": [
+            {
+                "language": "English",
+                "text": "sword"
+            }
+        ]
+    },
+    {
+        "original": "dalkaz",
+        "base": "dalk",
+        "declension": "a",
+        "type": "noun",
+        "gender": "masculine",
+        "translations": [
+            {
+                "language": "English",
+                "text": "pin, knife, dagger"
+            }
+        ]
+    },
+    {
+        "original": "draugaz",
+        "base": "draug",
+        "declension": "a",
+        "type": "noun",
+        "gender": "masculine",
+        "translations": [
+            {
+                "language": "English",
+                "text": "draugr"
+            }
+        ]
+    },
+    {
+        "original": "draumaz",
+        "base": "draum",
+        "declension": "a",
+        "type": "noun",
+        "gender": "masculine",
+        "translations": [
+            {
+                "language": "English",
+                "text": "dream"
+            }
+        ]
+    },
+    {
+        "original": "dwergaz",
+        "base": "dwerg",
+        "declension": "a",
+        "type": "noun",
+        "gender": "masculine",
+        "translations": [
+            {
+                "language": "English",
+                "text": "dwergr"
+            }
+        ]
+    },
+    {
+        "original": "efuraz",
+        "base": "efur",
+        "declension": "a",
+        "type": "noun",
+        "gender": "masculine",
+        "translations": [
+            {
+                "language": "English",
+                "text": "boar"
+            }
+        ]
+    },
+    {
+        "original": "ehwaz",
+        "base": "ehw",
+        "declension": "a",
+        "type": "noun",
+        "gender": "masculine",
+        "translations": [
+            {
+                "language": "English",
+                "text": "horse"
+            }
+        ]
+    },
+    {
+        "original": "erlaz",
+        "base": "erl",
+        "declension": "a",
+        "type": "noun",
+        "gender": "masculine",
+        "translations": [
+            {
+                "language": "English",
+                "text": "jarl"
+            }
+        ]
+    },
+    {
+        "original": "etunaz",
+        "base": "etun",
+        "declension": "a",
+        "type": "noun",
+        "gender": "masculine",
+        "translations": [
+            {
+                "language": "English",
+                "text": "jotunn"
+            }
+        ]
+    },
+    {
+        "original": "ēþmaz",
+        "base": "ēþm",
+        "declension": "a",
+        "type": "noun",
+        "gender": "masculine",
+        "translations": [
+            {
+                "language": "English",
+                "text": "breath, spirit"
+            }
+        ]
+    },
+    {
+        "original": "falisaz",
+        "base": "falis",
+        "declension": "a",
+        "type": "noun",
+        "gender": "masculine",
+        "translations": [
+            {
+                "language": "English",
+                "text": "rock"
+            }
+        ]
+    },
+    {
+        "original": "fimbulaz",
+        "base": "fimbul",
+        "declension": "a",
+        "type": "noun",
+        "gender": "masculine",
+        "translations": [
+            {
+                "language": "English",
+                "text": "giant, monster"
+            }
+        ]
+    },
+    {
+        "original": "fiskaz",
+        "base": "fisk",
+        "declension": "a",
+        "type": "noun",
+        "gender": "masculine",
+        "translations": [
+            {
+                "language": "English",
+                "text": "fish"
+            }
+        ]
+    },
+    {
+        "original": "flugilaz",
+        "base": "flugil",
+        "declension": "a",
+        "type": "noun",
+        "gender": "masculine",
+        "translations": [
+            {
+                "language": "English",
+                "text": "wing"
+            }
+        ]
+    }
 ]
