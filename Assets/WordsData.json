@@ -258,5 +258,278 @@
                 "text": "wing"
             }
         ]
+    },
+    {
+        "original": "airundiją",
+        "base": "airundij",
+        "declension": "ja",
+        "type": "noun",
+        "gender": "masculine",
+        "translations": [
+            {
+                "language": "English",
+                "text": "message"
+            }
+        ]
+    },
+    {
+        "original": "ambahtiją",
+        "base": "ambahtij",
+        "declension": "ja",
+        "type": "noun",
+        "gender": "masculine",
+        "translations": [
+            {
+                "language": "English",
+                "text": "service"
+            }
+        ]
+    },
+    {
+        "original": "andawlitją",
+        "base": "andawlitj",
+        "declension": "ja",
+        "type": "noun",
+        "gender": "masculine",
+        "translations": [
+            {
+                "language": "English",
+                "text": "form, face"
+            }
+        ]
+    },
+    {
+        "original": "andijaz",
+        "base": "andij",
+        "declension": "ja",
+        "type": "noun",
+        "gender": "masculine",
+        "translations": [
+            {
+                "language": "English",
+                "text": "end"
+            }
+        ]
+    },
+    {
+        "original": "apaliją",
+        "base": "apalij",
+        "declension": "ja",
+        "type": "noun",
+        "gender": "masculine",
+        "translations": [
+            {
+                "language": "English",
+                "text": "apple"
+            }
+        ]
+    },
+    {
+        "original": "arbaidiją",
+        "base": "arbaidij",
+        "declension": "ja",
+        "type": "noun",
+        "gender": "masculine",
+        "translations": [
+            {
+                "language": "English",
+                "text": "work"
+            }
+        ]
+    },
+    {
+        "original": "armōdiją",
+        "base": "armōdij",
+        "declension": "ja",
+        "type": "noun",
+        "gender": "masculine",
+        "translations": [
+            {
+                "language": "English",
+                "text": "poverty"
+            }
+        ]
+    },
+    {
+        "original": "awidiją",
+        "base": "awidij",
+        "declension": "ja",
+        "type": "noun",
+        "gender": "masculine",
+        "translations": [
+            {
+                "language": "English",
+                "text": "herd"
+            }
+        ]
+    },
+    {
+        "original": "aþuliją",
+        "base": "aþulij",
+        "declension": "ja",
+        "type": "noun",
+        "gender": "masculine",
+        "translations": [
+            {
+                "language": "English",
+                "text": "patrimony"
+            }
+        ]
+    },
+    {
+        "original": "badją",
+        "base": "badj",
+        "declension": "ja",
+        "type": "noun",
+        "gender": "masculine",
+        "translations": [
+            {
+                "language": "English",
+                "text": "grave, bed"
+            }
+        ]
+    },
+    {
+        "original": "bakārijaz",
+        "base": "bakārij",
+        "declension": "ja",
+        "type": "noun",
+        "gender": "masculine",
+        "translations": [
+            {
+                "language": "English",
+                "text": "baker"
+            }
+        ]
+    },
+    {
+        "original": "bazją",
+        "base": "bazj",
+        "declension": "ja",
+        "type": "noun",
+        "gender": "masculine",
+        "translations": [
+            {
+                "language": "English",
+                "text": "berry"
+            }
+        ]
+    },
+    {
+        "original": "bērusjaz",
+        "base": "bērusj",
+        "declension": "ja",
+        "type": "noun",
+        "gender": "masculine",
+        "translations": [
+            {
+                "language": "English",
+                "text": "parents"
+            }
+        ]
+    },
+    {
+        "original": "bilją",
+        "base": "bilj",
+        "declension": "ja",
+        "type": "noun",
+        "gender": "masculine",
+        "translations": [
+            {
+                "language": "English",
+                "text": "blade"
+            }
+        ]
+    },
+    {
+        "original": "drangijaz",
+        "base": "drangij",
+        "declension": "ja",
+        "type": "noun",
+        "gender": "masculine",
+        "translations": [
+            {
+                "language": "English",
+                "text": "stake, support"
+            }
+        ]
+    },
+    {
+        "original": "fanją",
+        "base": "fanj",
+        "declension": "ja",
+        "type": "noun",
+        "gender": "masculine",
+        "translations": [
+            {
+                "language": "English",
+                "text": "marsh, swamp"
+            }
+        ]
+    },
+    {
+        "original": "fergunją",
+        "base": "fergunj",
+        "declension": "ja",
+        "type": "noun",
+        "gender": "masculine",
+        "translations": [
+            {
+                "language": "English",
+                "text": "mountain"
+            }
+        ]
+    },
+    {
+        "original": "flatją",
+        "base": "flatj",
+        "declension": "ja",
+        "type": "noun",
+        "gender": "masculine",
+        "translations": [
+            {
+                "language": "English",
+                "text": "house, dwelling"
+            }
+        ]
+    },
+    {
+        "original": "flawją",
+        "base": "flawj",
+        "declension": "ja",
+        "type": "noun",
+        "gender": "masculine",
+        "translations": [
+            {
+                "language": "English",
+                "text": "ship, vessel"
+            }
+        ]
+    },
+    {
+        "original": "fōriją",
+        "base": "fōrij",
+        "declension": "ja",
+        "type": "noun",
+        "gender": "masculine",
+        "translations": [
+            {
+                "language": "English",
+                "text": "situation, opportunity"
+            }
+        ]
+    },
+    {
+        "original": "harjaz",
+        "base": "harj",
+        "declension": "ja",
+        "type": "noun",
+        "gender": "masculine",
+        "translations": [
+            {
+                "language": "English",
+                "text": "warrior"
+            }
+        ]
     }
 ]

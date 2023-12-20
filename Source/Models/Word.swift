@@ -90,7 +90,20 @@ struct Word: Codable, Identifiable {
     func generateVocative(number: Number, gender: Gender) -> String? {
         switch number {
         case .singular:
-            return base
+            switch declension {
+            case "ja":
+                var vocativeForm = base
+                
+                vocativeForm?.removeLast()
+                
+                if vocativeForm?.last != "i" {
+                    vocativeForm! += "i"
+                }
+                
+                return vocativeForm
+            default:
+                return base
+            }
         case .dual, .plural:
             return base! + "ōz"
         }
