@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A152195C2B5DD1560035C577 /* Verb.swift in Sources */ = {isa = PBXBuildFile; fileRef = A152195B2B5DD1560035C577 /* Verb.swift */; };
+		A152195E2B5DD3E90035C577 /* DynamicTableVerb.swift in Sources */ = {isa = PBXBuildFile; fileRef = A152195D2B5DD3E90035C577 /* DynamicTableVerb.swift */; };
+		A15219602B5DD64B0035C577 /* Person.swift in Sources */ = {isa = PBXBuildFile; fileRef = A152195F2B5DD64B0035C577 /* Person.swift */; };
 		A18963652B2FA1FA0011905C /* PraGermDictionaryApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A18963642B2FA1FA0011905C /* PraGermDictionaryApp.swift */; };
 		A18963672B2FA1FA0011905C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A18963662B2FA1FA0011905C /* ContentView.swift */; };
 		A18963692B2FA1FB0011905C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A18963682B2FA1FB0011905C /* Assets.xcassets */; };
@@ -24,6 +27,9 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A152195B2B5DD1560035C577 /* Verb.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Verb.swift; sourceTree = "<group>"; };
+		A152195D2B5DD3E90035C577 /* DynamicTableVerb.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DynamicTableVerb.swift; sourceTree = "<group>"; };
+		A152195F2B5DD64B0035C577 /* Person.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Person.swift; sourceTree = "<group>"; };
 		A18963612B2FA1FA0011905C /* PraGermDictionary.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PraGermDictionary.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A18963642B2FA1FA0011905C /* PraGermDictionaryApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PraGermDictionaryApp.swift; sourceTree = "<group>"; };
 		A18963662B2FA1FA0011905C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -90,6 +96,7 @@
 				A18963662B2FA1FA0011905C /* ContentView.swift */,
 				A1CE71402B30A05E00351068 /* DynamicTable.swift */,
 				A1CE71462B30ABBC00351068 /* WordDetailView.swift */,
+				A152195D2B5DD3E90035C577 /* DynamicTableVerb.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -103,6 +110,8 @@
 				A189637E2B2FA5B70011905C /* Translation.swift */,
 				A1CE71422B30A80800351068 /* Number.swift */,
 				A1CE71442B30A95200351068 /* Case.swift */,
+				A152195B2B5DD1560035C577 /* Verb.swift */,
+				A152195F2B5DD64B0035C577 /* Person.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -212,6 +221,9 @@
 				A1CE71412B30A05E00351068 /* DynamicTable.swift in Sources */,
 				A1CE71472B30ABBC00351068 /* WordDetailView.swift in Sources */,
 				A189637B2B2FA54F0011905C /* WordType.swift in Sources */,
+				A152195E2B5DD3E90035C577 /* DynamicTableVerb.swift in Sources */,
+				A15219602B5DD64B0035C577 /* Person.swift in Sources */,
+				A152195C2B5DD1560035C577 /* Verb.swift in Sources */,
 				A189637F2B2FA5B70011905C /* Translation.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

@@ -100,7 +100,7 @@ struct DynamicTable: View {
 
 struct DynamicTable_Previews: PreviewProvider {
     static var previews: some View {
-        let sampleWord = Word(original: "texst", base: "huse", declension: nil, type: .noun, gender: nil, translations: [])
+        let sampleWord = Word(original: "texst", base: "huse", declension: nil, type: .noun, gender: nil, translations: [], verb: nil)
 
         DynamicTable(word: sampleWord)
     }

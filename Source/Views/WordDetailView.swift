@@ -22,6 +22,8 @@ struct WordDetailView: View {
                 
                 if word.type == .noun || word.type == .pronoun || word.type == .adjective || word.type == .participle {
                     DynamicTable(word: word)
+                } else if word.type == .verb {
+                    DynamicTableVerb(word: word)
                 }
 
             }
@@ -32,5 +34,5 @@ struct WordDetailView: View {
 }
 
 #Preview {
-    WordDetailView(word: Word(original: "texst", base: "base", declension: nil, type: .noun, gender: nil, translations: []), searchDirection: .praGermToEnglish)
+    WordDetailView(word: Word(original: "texst", base: "base", declension: nil, type: .noun, gender: nil, translations: [], verb: nil), searchDirection: .praGermToEnglish)
 }

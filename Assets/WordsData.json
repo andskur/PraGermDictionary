@@ -531,5 +531,45 @@
                 "text": "warrior"
             }
         ]
+    },
+    {
+        "original": "bīdaną",
+        "type": "verb",
+        "translations": [
+            {
+                "language": "English",
+                "text": "to wait"
+            }
+        ],
+        "verb": {
+            "type": "strong",
+            "vclass": "first",
+            "forms": {
+                "first": "bīd",
+                "second": "baid",
+                "third": "bidum"
+            }
+        }
+    },
+    {
+        "original": "wrītaną",
+        "type": "verb",
+        "translations": [
+            {
+                "language": "English",
+                "text": "to write, engrave, inscribe"
+            }
+        ],
+        "verb": {
+            "type": "strong",
+            "vclass": "first",
+            "forms": {
+                "first": "wrīt",
+                "second": "wrait",
+                "third": "writum"
+            }
+        }
     }
 ]
+
+
