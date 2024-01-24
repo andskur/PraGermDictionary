@@ -543,7 +543,7 @@
         ],
         "verb": {
             "type": "strong",
-            "vclass": "first",
+            "vclass": "1",
             "forms": {
                 "first": "bīd",
                 "second": "baid",
@@ -557,16 +557,168 @@
         "translations": [
             {
                 "language": "English",
-                "text": "to write, engrave, inscribe"
+                "text": "to write, to engrave, to inscribe"
             }
         ],
         "verb": {
             "type": "strong",
-            "vclass": "first",
+            "vclass": "1",
             "forms": {
                 "first": "wrīt",
                 "second": "wrait",
                 "third": "writum"
+            }
+        }
+    },
+    {
+        "original": "bidjaną",
+        "type": "verb",
+        "translations": [
+            {
+                "language": "English",
+                "text": "to make a request, to ask"
+            }
+        ],
+        "verb": {
+            "type": "strong",
+            "vclass": "5",
+            "forms": {
+                "first": "bidj",
+                "second": "bad",
+                "third": "bēdum"
+            }
+        }
+    },
+    {
+        "original": "flaihaną",
+        "type": "verb",
+        "translations": [
+            {
+                "language": "English",
+                "text": "to fondle, to caress"
+            }
+        ],
+        "verb": {
+            "type": "strong",
+            "vclass": "7a",
+            "forms": {
+                "first": "flaih",
+                "second": "feflait",
+                "third": "feflaitum"
+            }
+        }
+    },
+    {
+        "original": "finkaną",
+        "type": "verb",
+        "translations": [
+            {
+                "language": "English",
+                "text": "to sparkle, to burn"
+            }
+        ],
+        "verb": {
+            "type": "strong",
+            "vclass": "1",
+            "forms": {
+                "first": "fink",
+                "second": "fank",
+                "third": "funkum"
+            }
+        }
+    },
+    {
+        "original": "frageldaną",
+        "type": "verb",
+        "translations": [
+            {
+                "language": "English",
+                "text": "to pay, to reward"
+            }
+        ],
+        "verb": {
+            "type": "strong",
+            "vclass": "3",
+            "forms": {
+                "first": "frageld",
+                "second": "fragald",
+                "third": "fraguldum"
+            }
+        }
+    },
+    {
+        "original": "frakwemaną",
+        "type": "verb",
+        "translations": [
+            {
+                "language": "English",
+                "text": "to come against, overcome, destroy"
+            }
+        ],
+        "verb": {
+            "type": "strong",
+            "vclass": "4",
+            "forms": {
+                "first": "frakwem",
+                "second": "frakwam",
+                "third": "frakwēmum"
+            }
+        }
+    },
+    {
+        "original": "fradrībaną",
+        "type": "verb",
+        "translations": [
+            {
+                "language": "English",
+                "text": "to drive away, to drive out, to expel"
+            }
+        ],
+        "verb": {
+            "type": "strong",
+            "vclass": "1",
+            "forms": {
+                "first": "fradrīb",
+                "second": "fradraib",
+                "third": "fradribum"
+            }
+        }
+    },
+    {
+        "original": "fragebaną",
+        "type": "verb",
+        "translations": [
+            {
+                "language": "English",
+                "text": "to drive away, to drive out, to expel"
+            }
+        ],
+        "verb": {
+            "type": "strong",
+            "vclass": "5",
+            "forms": {
+                "first": "frageb",
+                "second": "fragab",
+                "third": "fragēbum"
+            }
+        }
+    },
+    {
+        "original": "furaikweþaną",
+        "type": "verb",
+        "translations": [
+            {
+                "language": "English",
+                "text": "to drive away, to drive out, to expel"
+            }
+        ],
+        "verb": {
+            "type": "strong",
+            "vclass": "5",
+            "forms": {
+                "first": "furaikweþ",
+                "second": "furaikwaþ",
+                "third": "furaikwēdum"
             }
         }
     }
